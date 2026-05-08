@@ -1,5 +1,19 @@
 Bill Of Materials -- Sub 200$
 Name    Cost    Link
-Standard Open SO-100 & SO-101 Arms with AI Recognition    269.99$    https://www.hiwonder.com/products/lerobot-so-101?variant=42198960144471&srsltid=AfmBOopiekJrPgezr-uVgicqzMmK01SkHwQvxnjiNZ-dszoq710NZQSv
+Standard Open SO-101 Arm with AI Recognition    170$    https://www.hiwonder.com/products/lerobot-so-101?variant=42198960144471&srsltid=AfmBOopiekJrPgezr-uVgicqzMmK01SkHwQvxnjiNZ-dszoq710NZQSv
+
+kudos: https://github.com/TheRobotStudio/SO-ARM100#sourcing-parts 
+
+Parts for One Follower Arm:
+Part	Amount	Unit Cost (US)	Buy US	Unit Cost (EU)	Buy EU	Unit Cost (RMB)	Buy CN	Unit Cost (JPY)	Buy JP
+STS3215 Servo 7.4V, 1/345 gear (C001)	6	$13.89	Alibaba	€12.2	Alibaba	￥97.72	TaoBao	￥2,980	Akizuki Denshi
+Motor Control Board	1	$10.6	Amazon	€11.4	Amazon	￥27	TaoBao	￥980	Akizuki Denshi
+USB-C Cable 2 pcs	1	$7	Amazon	€7	Amazon	￥23.9	TaoBao	￥1,498	Amazon
+Power Supply	1	$10	Amazon	€15.7	Amazon	￥22.31	TaoBao	￥1,550	Akizuki Denshi
+Table Clamp 2pcs	1	$5	Amazon	€8	Amazon	￥7.8	TaoBao	￥2,200	Amazon
+Screwdriver Set1	1	$6	Amazon	€9	Amazon	￥14.9	TaoBao	￥500	Amazon
+Total	---	$121.94	---	€124.3	---	￥682.23	---	￥24,414	---
+
+
 ACT Training model    Free    Hugging Face TBD
 Issac Sim    Free    https://developer.nvidia.com/isaac?ncid=pa-srch-goog-107817&gad_source=1&gad_campaignid=23681440008&gbraid=0AAAAAD4XAoHeA3EYTIXWXSEq-tneOleN4&gclid=Cj0KCQjw8PDPBhCeARIsAOJwmWV0J-25HqfUgrWHwaXJF6tgb3xYEPkmEUiOMcVWn4SGpv1ClrJLQNwaAkITEALw_wcB#&_bt=801802024788&_bk=isaac%20sim&_bm=p&_bn=g&_bg=194692461317
