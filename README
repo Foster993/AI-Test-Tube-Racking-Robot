@@ -10,14 +10,6 @@ Right now, I’m mostly sourcing parts and starting to build the main frame. (I 
 BOM:
 
 
-| Hardware Name | Reason | Cost | Link |
-| :--- | :--- | :--- | :--- |
-| ESP 32 Cam x2 | For Training | 20$ | [AliExpress Link](https://www.aliexpress.us/item/3256809613598108.html?spm=a2g0o.productlist.main.29.6b430UeG0UeGuL&algo_pvid=a69847e7-85c8-4b6b-b89d-5ff62f54f21a&algo_exp_id=a69847e7-85c8-4b6b-b89d-5ff62f54f21a-28&pdp_ext_f=%7B%22order%22%3A%22118%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2116.99%2114.99%21%21%2116.99%2114.99%21%4021030f8317860776713526744e0eb5%2112000050210360407%21sea%21US%216146139390%21X%211%210%21n_tag%3A-29919%3Bd%3Af8217b37%3Bm03_new_user%3A-29895%3BpisId%3A5000000214298657&curPageLogUid=ChgRnQN22ChS&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009799912860%7C_p_origin_prod%3A) |
-| SO100 Robot arm | Pick & Place | 200$-199+taxes and shipping not included- total probably 230 | [SO100 Link](https://so100.nanocorp.app/) |
-| ACT Transformer model | Model | Free | [ACT GitHub Link](https://github.com/Shaka-Labs/ACT) |
-| Macbook Air | Training | Already have | Old computer, Running the robot,Already have |
-| Acrylic | Workcell | Already have | [Amazon Link](https://amazon.com) |
-| Plastic extrusions | Workcell | 3d printed | [Amazon Link](https://amazon.com) |
 
 
 For the 3d Model- Here is the CC attribution for the parts I used:
