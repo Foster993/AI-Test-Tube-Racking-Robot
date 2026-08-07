@@ -9,14 +9,15 @@ Right now, I’m mostly sourcing parts and starting to build the main frame. (I 
 
 BOM:
 
+
 | Hardware Name | Reason | Cost | Link |
 | :--- | :--- | :--- | :--- |
-| ESP 32 Cam x2 | For Training | 20$ | https://www.aliexpress.us/item/3256807691391946.html?src=google&snps=y&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256807691391946&ds_e_product_merchant_id=109250268&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=20542171667&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=18545443176&gbraid=0AAAAAD6I-hFybBCmHe2KnApFVWMxxabM8&gclid=Cj0KCQjwlLDQBhDjARIsAPlIefHG4VPHul32xlmM3NNNsDArO0Uc5Nko8Zfo4fva6d17gZsQP8FBNEYaAol3EALw_wcB&gatewayAdapt=glo2usa |
-| SO100 Robot arm | Pick & Place | 200$-199+taxes and shipping not included- total probably 230 | https://so100.nanocorp.app/ |
-| ACT Transformer model | Model | Free | https://github.com/Shaka-Labs/ACT |
+| ESP 32 Cam x2 | For Training | 20$ | [AliExpress Link](https://www.aliexpress.us/item/3256809613598108.html?spm=a2g0o.productlist.main.29.6b430UeG0UeGuL&algo_pvid=a69847e7-85c8-4b6b-b89d-5ff62f54f21a&algo_exp_id=a69847e7-85c8-4b6b-b89d-5ff62f54f21a-28&pdp_ext_f=%7B%22order%22%3A%22118%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2116.99%2114.99%21%21%2116.99%2114.99%21%4021030f8317860776713526744e0eb5%2112000050210360407%21sea%21US%216146139390%21X%211%210%21n_tag%3A-29919%3Bd%3Af8217b37%3Bm03_new_user%3A-29895%3BpisId%3A5000000214298657&curPageLogUid=ChgRnQN22ChS&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009799912860%7C_p_origin_prod%3A) |
+| SO100 Robot arm | Pick & Place | 200$-199+taxes and shipping not included- total probably 230 | [SO100 Link](https://so100.nanocorp.app/) |
+| ACT Transformer model | Model | Free | [ACT GitHub Link](https://github.com/Shaka-Labs/ACT) |
 | Macbook Air | Training | Already have | Old computer, Running the robot,Already have |
-| Acrylic | Workcell | Already have | amazon.com/KINLINK-Plexiglass-Acrylic-Plastic-Invitation/dp/B0FKGWH5KH/ref=sr_1_3?dib=eyJ2IjoiMSJ9.QB121BufqPbss9lo4d2AzyASH58yVoOamO7KgBL4UvpABOFKyFrczgpiIqc1uwrh1_B5COqTBvsmQWi2JXK1cXIwMUuDKkpPHcfU0VxjRpRvSxWOL5mql8jzaPYVcnn5H8E4NzC_VNCkIBba-5dGZIPwBWMhVDjsJ0QMeQxp4qVxbOLnQHTxP7XLxzPuVm3InK32GBs0LuBZkR2qunAVZkGpnuxaEeDjCCDLaCjGj9M.IeQQQ_yanjJFZc1YNlR15dm7JBd6yBy9C7X-W-Uosww&dib_tag=se&keywords=acrylic+sheet&qid=1779212998&sr=8-3 |
-| Plastic extrusions | Workcell | 3d printed | amazon.com/Seekliny-Aluminum-Extrusion-T-Slotted-Accessories/dp/B0DY7JM8H5/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.qUHO2PEDj1EZj1luEE2VokN624SoY5ULwuHejzSg84Pz4harMXBt7ob_QiNiW2enuJxUjvz2iSU0kX1VGlue1fET8t36aTa27XC20liM7AihOEVnIrswRJcEHXEtJzQBmpgqCG_v6OTNxLluXcBRr7g1AWDNZNH7jvcsCDXnS5BQSaJ5JdgtvK3sVVQVYw56rWalhss7oHHy5EyRuQVlkM8IhAgjGl2wsqOwmi3u0mo._NR0-hdS_7j1gmBt5iQdAkPNbRIlEkck8OC7akyJhD4&dib_tag=se&keywords=2020+aluminum+extrusion&qid=1779213130&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 |
+| Acrylic | Workcell | Already have | [Amazon Link](https://amazon.com) |
+| Plastic extrusions | Workcell | 3d printed | [Amazon Link](https://amazon.com) |
 
 
 For the 3d Model- Here is the CC attribution for the parts I used:
