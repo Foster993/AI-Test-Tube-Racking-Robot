@@ -7,6 +7,16 @@ The Action: Tubes get dumped into a funnel to slide into the pick zone. The came
 Current Progress
 Right now, I’m mostly sourcing parts and starting to build the main frame. (I 3d printed them on a bambu lab x1 carbon) Next, I need to order all of the parts.
 
+BOM:
+
+| Hardware Name | Reason | Cost | Link |
+| :--- | :--- | :--- | :--- |
+| ESP 32 Cam x2 | For Training | 20$ | https://www.aliexpress.us/item/3256807691391946.html?src=google&snps=y&src=google&albch=shopping&acnt=708-803-3821&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&albagn=888888&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en3256807691391946&ds_e_product_merchant_id=109250268&ds_e_product_country=US&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=20542171667&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=18545443176&gbraid=0AAAAAD6I-hFybBCmHe2KnApFVWMxxabM8&gclid=Cj0KCQjwlLDQBhDjARIsAPlIefHG4VPHul32xlmM3NNNsDArO0Uc5Nko8Zfo4fva6d17gZsQP8FBNEYaAol3EALw_wcB&gatewayAdapt=glo2usa |
+| SO100 Robot arm | Pick & Place | 200$-199+taxes and shipping not included- total probably 230 | https://so100.nanocorp.app/ |
+| ACT Transformer model | Model | Free | https://github.com/Shaka-Labs/ACT |
+| Macbook Air | Training | Already have | Old computer, Running the robot,Already have |
+| Acrylic | Workcell | Already have | amazon.com/KINLINK-Plexiglass-Acrylic-Plastic-Invitation/dp/B0FKGWH5KH/ref=sr_1_3?dib=eyJ2IjoiMSJ9.QB121BufqPbss9lo4d2AzyASH58yVoOamO7KgBL4UvpABOFKyFrczgpiIqc1uwrh1_B5COqTBvsmQWi2JXK1cXIwMUuDKkpPHcfU0VxjRpRvSxWOL5mql8jzaPYVcnn5H8E4NzC_VNCkIBba-5dGZIPwBWMhVDjsJ0QMeQxp4qVxbOLnQHTxP7XLxzPuVm3InK32GBs0LuBZkR2qunAVZkGpnuxaEeDjCCDLaCjGj9M.IeQQQ_yanjJFZc1YNlR15dm7JBd6yBy9C7X-W-Uosww&dib_tag=se&keywords=acrylic+sheet&qid=1779212998&sr=8-3 |
+| Plastic extrusions | Workcell | 3d printed | amazon.com/Seekliny-Aluminum-Extrusion-T-Slotted-Accessories/dp/B0DY7JM8H5/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.qUHO2PEDj1EZj1luEE2VokN624SoY5ULwuHejzSg84Pz4harMXBt7ob_QiNiW2enuJxUjvz2iSU0kX1VGlue1fET8t36aTa27XC20liM7AihOEVnIrswRJcEHXEtJzQBmpgqCG_v6OTNxLluXcBRr7g1AWDNZNH7jvcsCDXnS5BQSaJ5JdgtvK3sVVQVYw56rWalhss7oHHy5EyRuQVlkM8IhAgjGl2wsqOwmi3u0mo._NR0-hdS_7j1gmBt5iQdAkPNbRIlEkck8OC7akyJhD4&dib_tag=se&keywords=2020+aluminum+extrusion&qid=1779213130&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 |
 
 
 For the 3d Model- Here is the CC attribution for the parts I used:
