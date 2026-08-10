@@ -1,4 +1,5 @@
 # AI Test Tube Racking Robot
+<img width="3024" height="4032" alt="turnintopng (1)" src="https://github.com/user-attachments/assets/33294718-a5b8-4c63-bb53-f541a780916c" />
 
 I'm building an automatic test tube racking robot to help scientists save time in labs. Instead of people having to move hundreds of tubes by hand, my robot uses a cheap robotic arm and an AI camera to grab messy test tubes out of a box and line them up perfectly into a rack.
 How It Works
