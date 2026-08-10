@@ -1,4 +1,4 @@
-AI Test Tube Racking Robot
+# AI Test Tube Racking Robot
 
 I'm building an automatic test tube racking robot to help scientists save time in labs. Instead of people having to move hundreds of tubes by hand, my robot uses a cheap robotic arm and an AI camera to grab messy test tubes out of a box and line them up perfectly into a rack.
 How It Works
@@ -18,7 +18,7 @@ Thingiverse Model: "Misumi aluminum extrusion 2020 profile" by beverageexpert is
 Onshape Model: 3D assembly/part derived from the public Onshape Workspace Document: cf7fb80f359e1c0e2f55983d/w/8d0e20ce68706466c6a18e93/e/a4e343cc24dac03d70508ea1
 
 
-
+<img width="482" height="412" alt="workcell (1)" src="https://github.com/user-attachments/assets/0b6d0601-94bd-4609-ac18-42c9031ed548" />
 
 
 Instructions:
