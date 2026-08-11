@@ -31,5 +31,10 @@ Onshape Model: 3D assembly/part derived from the public Onshape Workspace Docume
 <img width="482" height="412" alt="workcell (1)" src="https://github.com/user-attachments/assets/0b6d0601-94bd-4609-ac18-42c9031ed548" />
 
 
+# Instructions:
 Instructions:
-Step 1:
+Step 1: Construct the work-cell. To build the work-cell, I will first 3D print the plastic extrusions and adhere them together by melting/gluing them. Then I will saw clear acrylic pieces into approx. 1 ft by 1 ft pieces and glue them on. 
+Step 2: Assemble the test tube holders and the vats for storage. I will 3d print 3 main custom boxes I designed in the work cell. The first custom box will hold the unorganized tubes, and the second custom box will hold the unorganized filters. The final box will have holes to put the organized test tubes and filters so the robotic arm can easily put them together. After printing all of these boxes, glue them to the work-cell. 
+Step 3: Assemble the robotic arm. Find the instructions online at: https://huggingface.co/docs/lerobot/en/so100
+Step 4: Training with tubes and filters. Install the ESP32 cam on top of the work-cell and use the leader arm to grab a test tube and add the filter inside of it. Repeat this 50-ish times. (Use an ACT model to run it)
+Step 5: Test with multiple test tubes and filters and hyperparameter-tune the ACT model.
